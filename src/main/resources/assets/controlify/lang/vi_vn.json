@@ -47,6 +47,8 @@
   "controlify.gui.ingame_button_guide_scale.tooltip": "Nút hướng dẫn trong game lớn cỡ nào. Đây là tỷ lệ phần trăm của quy mô GUI hiện được chọn. 100% sẽ phù hợp với quy mô thông thường.",
   "controlify.gui.ingame_button_guide_scale.tooltip.warning": "Điều này có thể gây ra các vấn đề về tỷ lệ khiến nó trông xấu ở mọi cài đặt trừ 100%.",
   "controlify.gui.open_issue_tracker": "Mở trình theo dõi vấn đề",
+  "controlify.gui.use_enhanced_steam_deck_driver": "Use Enhanced Steam Deck Driver",
+  "controlify.gui.use_enhanced_steam_deck_driver.tooltip": "If enabled, Controlify will use an enhanced driver for the Steam Deck to improve compatibility and performance. This is experimental and may have bugs. This driver requires Decky Loader to be installed on your Deck.",
   "controlify.gui.copy_debug_dump": "Copy Debug Dump To Clipboard",
   "controlify.gui.copy_debug_dump.tooltip": "Copies a Controlify debug dump to your clipboard. You may be asked to use this if you are seeking support.",
   "controlify.gui.new_options": "Bản cập nhật mới này",
