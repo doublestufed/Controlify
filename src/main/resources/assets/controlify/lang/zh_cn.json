@@ -47,6 +47,8 @@
   "controlify.gui.ingame_button_guide_scale.tooltip": "游戏内按钮指南有多大。这是当前选择的GUI比例的百分比。100%将与一般的比例相匹配。",
   "controlify.gui.ingame_button_guide_scale.tooltip.warning": "这可能会导致缩放问题，使其看起来很奇怪，除了100%。",
   "controlify.gui.open_issue_tracker": "提交问题",
+  "controlify.gui.use_enhanced_steam_deck_driver": "Use Enhanced Steam Deck Driver",
+  "controlify.gui.use_enhanced_steam_deck_driver.tooltip": "If enabled, Controlify will use an enhanced driver for the Steam Deck to improve compatibility and performance. This is experimental and may have bugs. This driver requires Decky Loader to be installed on your Deck.",
   "controlify.gui.copy_debug_dump": "Copy Debug Dump To Clipboard",
   "controlify.gui.copy_debug_dump.tooltip": "Copies a Controlify debug dump to your clipboard. You may be asked to use this if you are seeking support.",
   "controlify.gui.new_options": "本次更新新增",
