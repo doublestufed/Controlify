@@ -47,6 +47,8 @@
   "controlify.gui.ingame_button_guide_scale.tooltip": "Quanto sono grandi i pulsanti guida. Questa è una percentuale della Scala GUI attualmente selezionata. Il 100% corrisponderà alle dimensioni normali.",
   "controlify.gui.ingame_button_guide_scale.tooltip.warning": "Questo può causare problemi di scala, generando una cattiva resa a valori diversi dal 100%.",
   "controlify.gui.open_issue_tracker": "Apri Tracker Problemi",
+  "controlify.gui.use_enhanced_steam_deck_driver": "Use Enhanced Steam Deck Driver",
+  "controlify.gui.use_enhanced_steam_deck_driver.tooltip": "If enabled, Controlify will use an enhanced driver for the Steam Deck to improve compatibility and performance. This is experimental and may have bugs. This driver requires Decky Loader to be installed on your Deck.",
   "controlify.gui.copy_debug_dump": "Copia Dump Debug Negli Appunti",
   "controlify.gui.copy_debug_dump.tooltip": "Copia il Debug Dump di Controlify negli appunti. Ti potrebbe essere chiesto se stai cercando supporto.",
   "controlify.gui.new_options": "Novità in Questo Aggiornamento",
