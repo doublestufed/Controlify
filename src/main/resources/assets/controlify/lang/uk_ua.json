@@ -47,6 +47,8 @@
   "controlify.gui.ingame_button_guide_scale.tooltip": "Наскільки великими є внутрішньоігрові підказки. Це відсоток від поточної вибраної шкали графічного інтерфейсу. 100% відповідатиме звичайному розміру.",
   "controlify.gui.ingame_button_guide_scale.tooltip.warning": "Це може спричинити проблеми з масштабуванням, через які він виглядатиме погано на будь-яких рівнях, крім 100%.",
   "controlify.gui.open_issue_tracker": "Відкрити трекер проблем",
+  "controlify.gui.use_enhanced_steam_deck_driver": "Use Enhanced Steam Deck Driver",
+  "controlify.gui.use_enhanced_steam_deck_driver.tooltip": "If enabled, Controlify will use an enhanced driver for the Steam Deck to improve compatibility and performance. This is experimental and may have bugs. This driver requires Decky Loader to be installed on your Deck.",
   "controlify.gui.copy_debug_dump": "Копіювати дамп налагодження до буфера обміну",
   "controlify.gui.copy_debug_dump.tooltip": "Копіює дамп налагодження Controlify до буфера обміну. Вас можуть попросити скористатися цим, якщо ви звернетеся за підтримкою.",
   "controlify.gui.new_options": "Нове в цьому оновленні",
