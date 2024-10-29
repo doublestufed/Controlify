@@ -47,6 +47,8 @@
   "controlify.gui.ingame_button_guide_scale.tooltip": "Seberapa besar panduan butang dalam permainan. Ini ialah peratusan skala GUI yang dipilih pada masa ini. 100% akan sepadan dengan skala biasa.",
   "controlify.gui.ingame_button_guide_scale.tooltip.warning": "Ini boleh menyebabkan isu penskalaan yang akan menjadikannya kelihatan buruk pada apa-apa kecuali 100%.",
   "controlify.gui.open_issue_tracker": "Buka Penjejak Isu",
+  "controlify.gui.use_enhanced_steam_deck_driver": "Use Enhanced Steam Deck Driver",
+  "controlify.gui.use_enhanced_steam_deck_driver.tooltip": "If enabled, Controlify will use an enhanced driver for the Steam Deck to improve compatibility and performance. This is experimental and may have bugs. This driver requires Decky Loader to be installed on your Deck.",
   "controlify.gui.copy_debug_dump": "Salin Buangan Nyahpepijat ke Papan Keratan",
   "controlify.gui.copy_debug_dump.tooltip": "Menyalin sebuah buangan nyahpepijat Controlify ke papan keratan anda. Anda mungkin diminta untuk menggunakan ini jika anda mencari sokongan.",
   "controlify.gui.new_options": "Baharu dalam Kemas Kini Ini",
