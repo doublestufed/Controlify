@@ -48,7 +48,7 @@
   "controlify.gui.ingame_button_guide_scale.tooltip.warning": "這可能會導致縮放問題，使其在任何非 100% 的情況下看起來很差。",
   "controlify.gui.open_issue_tracker": "開啟錯誤追蹤器",
   "controlify.gui.use_enhanced_steam_deck_driver": "使用增強型 Steam Deck 驅動程式",
-  "controlify.gui.use_enhanced_steam_deck_driver.tooltip": "If enabled, Controlify will use an enhanced driver for the Steam Deck to improve compatibility and performance. This is experimental and may have bugs. This driver requires Decky Loader to be installed on your Deck.",
+  "controlify.gui.use_enhanced_steam_deck_driver.tooltip": "如果啟用此選項，Controlify 將會使用增強型 Steam Deck 驅動程式來提升相容性和效能。此功能目前仍處於實驗階段，可能會有錯誤。此驅動程式需要在您的 Steam Deck 上安裝 Decky Loader。",
   "controlify.gui.copy_debug_dump": "將除錯傾印複製到剪貼簿",
   "controlify.gui.copy_debug_dump.tooltip": "將 Controlify 除錯傾印複製到你的剪貼簿。如果你需要支援，可能會被要求使用它。",
   "controlify.gui.new_options": "本次更新的新功能",
